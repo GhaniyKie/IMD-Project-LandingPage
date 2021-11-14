@@ -7,7 +7,7 @@
 
 @layer components {
     .number, .separator {
-        @apply font-bold text-5xl text-biru-muda px-2
+        @apply font-bold text-4xl lg:text-5xl text-biru-muda px-2
     }
 
     .label {
