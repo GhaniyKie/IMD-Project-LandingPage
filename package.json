@@ -1,0 +1,19 @@
+{
+  "name": "imd_countdown",
+  "version": "1.0.0",
+  "description": "Countdown timer for Inovasi Modul Digital Release Time",
+  "main": "index.html",
+  "author": "Abdul Hakim Ghaniy",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.14"
+  },
+  "scripts": {
+    "server": "vite",
+    "build": "vite build"
+  }
+}
